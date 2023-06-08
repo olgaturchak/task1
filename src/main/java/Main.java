@@ -3,6 +3,8 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
+
+        System.out.println("Olga Turchak");
         Scanner scanner = new Scanner(System.in);
         List<String> userAnswers = new ArrayList<>();
         int totalCorrect = 0;
@@ -81,6 +83,8 @@ public class Main {
         }
     }
 }
+
+
 
 
 
